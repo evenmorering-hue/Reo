@@ -1,0 +1,22 @@
+{
+  "blog_id": "goldlush2k",
+  "brand_name": "나섬요양원",
+  "brand_tagline": "가능역 2번출구 5분 · 어르신 아홉 분을 가족처럼",
+  "consult_contact": "",
+  "post_hour": 11,
+  "random_delay_minutes": 30,
+  "draft_only_days": 7,
+  "weekday_types": {
+    "0": "admission",
+    "1": "emotion",
+    "2": "health",
+    "3": "operation",
+    "4": "checklist"
+  },
+  "fallback_type_order": ["health", "admission", "checklist", "emotion"],
+  "images_per_post": 6,
+  "photos_per_post": 2,
+  "browser_channel": "chrome",
+  "claude_timeout_minutes": 25,
+  "fallback_post_with_claude": true
+}

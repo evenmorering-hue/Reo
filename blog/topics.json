@@ -1,0 +1,433 @@
+{
+ "_note": "주제 대기열. used 여부는 state.json에 기록됩니다. 새 주제는 같은 형식으로 추가하세요.",
+ "topics": [
+  {
+   "id": "A01",
+   "type": "admission",
+   "title": "장기요양등급 신청 방법 처음부터 끝까지",
+   "keyword": "장기요양등급 신청"
+  },
+  {
+   "id": "A02",
+   "type": "admission",
+   "title": "장기요양 인정조사 준비법, 이것만 챙기세요",
+   "keyword": "장기요양 인정조사"
+  },
+  {
+   "id": "A03",
+   "type": "admission",
+   "title": "장기요양등급 재신청과 등급 변경 방법",
+   "keyword": "장기요양등급 재신청"
+  },
+  {
+   "id": "A04",
+   "type": "admission",
+   "title": "장기요양보험 본인부담금 쉽게 이해하기",
+   "keyword": "요양원 본인부담금"
+  },
+  {
+   "id": "A05",
+   "type": "admission",
+   "title": "요양원 비용 외 추가 비용은 무엇이 있을까요",
+   "keyword": "요양원 비용"
+  },
+  {
+   "id": "A06",
+   "type": "admission",
+   "title": "요양원 입소 절차 한눈에 정리",
+   "keyword": "요양원 입소 절차"
+  },
+  {
+   "id": "A07",
+   "type": "admission",
+   "title": "요양원 입소 준비물 총정리",
+   "keyword": "요양원 입소 준비물"
+  },
+  {
+   "id": "A08",
+   "type": "admission",
+   "title": "요양원과 요양병원, 무엇이 다를까요",
+   "keyword": "요양원 요양병원 차이"
+  },
+  {
+   "id": "A09",
+   "type": "admission",
+   "title": "치매 어르신 장기요양등급과 인지지원등급 알아보기",
+   "keyword": "치매 장기요양등급"
+  },
+  {
+   "id": "A10",
+   "type": "admission",
+   "title": "의정부 요양원 고를 때 꼭 확인할 다섯 가지",
+   "keyword": "의정부 요양원"
+  },
+  {
+   "id": "E01",
+   "type": "emotion",
+   "title": "부모님 요양원 적응기간, 얼마나 걸릴까요",
+   "keyword": "요양원 적응기간"
+  },
+  {
+   "id": "E02",
+   "type": "emotion",
+   "title": "부모님 표정이 밝아지고 웃음이 늘어난 순간",
+   "keyword": "요양원 부모님"
+  },
+  {
+   "id": "E03",
+   "type": "emotion",
+   "title": "요양원을 선택한 가족들이 가장 많이 하는 말",
+   "keyword": "요양원 선택"
+  },
+  {
+   "id": "E04",
+   "type": "emotion",
+   "title": "부모님을 자주 찾아뵈면 달라지는 하루",
+   "keyword": "요양원 면회"
+  },
+  {
+   "id": "E05",
+   "type": "emotion",
+   "title": "작은 요양원이 보호자를 안심시키는 이유",
+   "keyword": "소규모 요양원"
+  },
+  {
+   "id": "E06",
+   "type": "emotion",
+   "title": "이름을 기억하고 불러드리는 돌봄의 힘",
+   "keyword": "개별 돌봄 요양원"
+  },
+  {
+   "id": "E07",
+   "type": "emotion",
+   "title": "익숙한 생활리듬을 지켜드리면 달라지는 어르신의 하루",
+   "keyword": "생활리듬 돌봄"
+  },
+  {
+   "id": "E08",
+   "type": "emotion",
+   "title": "가족 같은 분위기가 치매 어르신에게 중요한 이유",
+   "keyword": "치매 요양원"
+  },
+  {
+   "id": "E09",
+   "type": "emotion",
+   "title": "보호자가 가장 마음을 놓는 상담의 순간",
+   "keyword": "요양원 상담"
+  },
+  {
+   "id": "E10",
+   "type": "emotion",
+   "title": "부모님이 여기가 편하다고 말씀하신 이유",
+   "keyword": "편안한 요양원"
+  },
+  {
+   "id": "E11",
+   "type": "emotion",
+   "title": "요양원에서 가족과 더 가까워질 수 있습니다",
+   "keyword": "요양원 가족"
+  },
+  {
+   "id": "E12",
+   "type": "emotion",
+   "title": "보호자의 불안과 죄책감까지 살피는 요양원",
+   "keyword": "요양원 보호자 불안"
+  },
+  {
+   "id": "E13",
+   "type": "emotion",
+   "title": "부모님의 존엄을 지키는 작은 습관",
+   "keyword": "어르신 존엄 돌봄"
+  },
+  {
+   "id": "E14",
+   "type": "emotion",
+   "title": "가족처럼 함께 식사하는 분위기의 의미",
+   "keyword": "요양원 식사"
+  },
+  {
+   "id": "E15",
+   "type": "emotion",
+   "title": "부모님이 외롭지 않은 요양원의 특징",
+   "keyword": "요양원 외로움"
+  },
+  {
+   "id": "E16",
+   "type": "emotion",
+   "title": "가족이 추천하는 요양원의 공통점",
+   "keyword": "요양원 추천"
+  },
+  {
+   "id": "H01",
+   "type": "health",
+   "title": "치매 어르신 산책이 중요한 이유",
+   "keyword": "치매 산책"
+  },
+  {
+   "id": "H02",
+   "type": "health",
+   "title": "어르신 수분 섭취가 중요한 이유",
+   "keyword": "노인 수분 섭취"
+  },
+  {
+   "id": "H03",
+   "type": "health",
+   "title": "노인 탈수 증상 알아보기",
+   "keyword": "노인 탈수 증상",
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "H04",
+   "type": "health",
+   "title": "노인 변비 예방 생활습관",
+   "keyword": "노인 변비"
+  },
+  {
+   "id": "H05",
+   "type": "health",
+   "title": "어르신 배변 관리 방법",
+   "keyword": "어르신 배변 관리"
+  },
+  {
+   "id": "H06",
+   "type": "health",
+   "title": "여름철 어르신 건강관리 방법",
+   "keyword": "여름철 노인 건강",
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "H07",
+   "type": "health",
+   "title": "겨울철 어르신 건강관리 방법",
+   "keyword": "겨울철 노인 건강",
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "H08",
+   "type": "health",
+   "title": "어르신 감기 예방을 위한 생활관리",
+   "keyword": "노인 감기 예방",
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "H09",
+   "type": "health",
+   "title": "치매 어르신 대화법 이것만 기억하세요",
+   "keyword": "치매 대화법"
+  },
+  {
+   "id": "H10",
+   "type": "health",
+   "title": "치매 예방 생활습관",
+   "keyword": "치매 예방"
+  },
+  {
+   "id": "H11",
+   "type": "health",
+   "title": "어르신 식욕이 줄어들 때 대처법",
+   "keyword": "노인 식욕 저하"
+  },
+  {
+   "id": "H12",
+   "type": "health",
+   "title": "노인 근감소증 예방법",
+   "keyword": "근감소증 예방"
+  },
+  {
+   "id": "H13",
+   "type": "health",
+   "title": "어르신 운동이 꼭 필요한 이유",
+   "keyword": "노인 운동"
+  },
+  {
+   "id": "H14",
+   "type": "health",
+   "title": "노인 낙상 예방, 집에서도 가능한 방법",
+   "keyword": "노인 낙상 예방"
+  },
+  {
+   "id": "H15",
+   "type": "health",
+   "title": "어르신 혈압 관리가 중요한 이유",
+   "keyword": "노인 혈압 관리"
+  },
+  {
+   "id": "H16",
+   "type": "health",
+   "title": "당뇨 어르신 식사관리",
+   "keyword": "당뇨 노인 식단"
+  },
+  {
+   "id": "O01",
+   "type": "operation",
+   "title": "생활패턴을 기록하는 이유",
+   "keyword": "생활패턴 기록"
+  },
+  {
+   "id": "O02",
+   "type": "operation",
+   "title": "어르신마다 다른 식사 속도와 식단을 살피는 이유",
+   "keyword": "개인별 식단"
+  },
+  {
+   "id": "O03",
+   "type": "operation",
+   "title": "어르신마다 다른 수면시간, 편안한 잠을 지켜드리는 방법",
+   "keyword": "어르신 수면"
+  },
+  {
+   "id": "O04",
+   "type": "operation",
+   "title": "개인별 건강상태를 매일 확인합니다",
+   "keyword": "어르신 건강 확인"
+  },
+  {
+   "id": "O05",
+   "type": "operation",
+   "title": "가족 같은 분위기는 어떻게 만들어질까요",
+   "keyword": "가족 같은 요양원"
+  },
+  {
+   "id": "O06",
+   "type": "operation",
+   "title": "보호자에게 매일 안부와 작은 변화를 전하는 이유",
+   "keyword": "요양원 소통"
+  },
+  {
+   "id": "O07",
+   "type": "operation",
+   "title": "작은 변화도 놓치지 않는 관찰일지",
+   "keyword": "요양원 관찰일지"
+  },
+  {
+   "id": "O08",
+   "type": "operation",
+   "title": "어르신 취미와 성향에 맞춘 프로그램",
+   "keyword": "요양원 프로그램"
+  },
+  {
+   "id": "O09",
+   "type": "operation",
+   "title": "생신을 가족처럼 준비하는 하루",
+   "keyword": "요양원 생신잔치"
+  },
+  {
+   "id": "O10",
+   "type": "operation",
+   "title": "계절마다 달라지는 맞춤 프로그램",
+   "keyword": "요양원 계절 프로그램"
+  },
+  {
+   "id": "O11",
+   "type": "operation",
+   "title": "함께 차를 마시는 시간이 특별한 이유",
+   "keyword": "요양원 일상"
+  },
+  {
+   "id": "O12",
+   "type": "operation",
+   "title": "웃음이 많은 요양원의 비밀",
+   "keyword": "요양원 분위기"
+  },
+  {
+   "id": "O13",
+   "type": "operation",
+   "title": "요양보호사와 어르신이 친해지는 과정",
+   "keyword": "요양보호사"
+  },
+  {
+   "id": "O14",
+   "type": "operation",
+   "title": "어르신 한 분을 위한 하루 계획과 기록",
+   "keyword": "요양원 하루"
+  },
+  {
+   "id": "O15",
+   "type": "operation",
+   "title": "보호자와 함께 만드는 돌봄",
+   "keyword": "보호자 소통"
+  },
+  {
+   "id": "C01",
+   "type": "checklist",
+   "title": "좋은 요양원 상담 시 꼭 물어봐야 할 질문",
+   "keyword": "요양원 상담 질문"
+  },
+  {
+   "id": "C02",
+   "type": "checklist",
+   "title": "요양원 계약 전 반드시 확인하세요",
+   "keyword": "요양원 계약"
+  },
+  {
+   "id": "C03",
+   "type": "checklist",
+   "title": "요양원 방문 상담 준비 방법",
+   "keyword": "요양원 방문 상담"
+  },
+  {
+   "id": "C04",
+   "type": "checklist",
+   "title": "요양원 견학 체크포인트, 처음 방문한 보호자가 볼 것",
+   "keyword": "요양원 견학"
+  },
+  {
+   "id": "C05",
+   "type": "checklist",
+   "title": "보호자가 자주 묻는 질문 TOP10",
+   "keyword": "요양원 자주 묻는 질문"
+  },
+  {
+   "id": "C06",
+   "type": "checklist",
+   "title": "요양원 선택 시 위치보다 중요한 것",
+   "keyword": "요양원 선택 기준"
+  },
+  {
+   "id": "C07",
+   "type": "checklist",
+   "title": "요양원 후기, 이것만 보면 실패하지 않습니다",
+   "keyword": "요양원 후기"
+  },
+  {
+   "id": "C08",
+   "type": "checklist",
+   "title": "요양원 상담 시 피해야 할 실수",
+   "keyword": "요양원 상담 실수"
+  },
+  {
+   "id": "C09",
+   "type": "checklist",
+   "title": "부모님을 믿고 맡길 수 있는 요양원 고르는 법",
+   "keyword": "요양원 고르는 법"
+  },
+  {
+   "id": "C10",
+   "type": "checklist",
+   "title": "입소 첫 일주일, 보호자가 가장 궁금한 것",
+   "keyword": "요양원 입소 첫 주"
+  }
+ ]
+}

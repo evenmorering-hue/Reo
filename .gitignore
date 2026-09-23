@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# blog automation (개인정보·로그인 정보는 커밋하지 않음)
+blog/.browser-profile/
+blog/output/
+blog/logs/
+blog/state.json
+blog/memo/this_week.md
+blog/photos/*
+!blog/photos/.gitkeep
+blog/assets/profile.*
+__pycache__/
